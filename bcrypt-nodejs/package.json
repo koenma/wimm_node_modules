@@ -9,7 +9,7 @@
   "version": "0.0.3",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shaneGirish/bcryptJS.git"
+    "url": "git+https://github.com/shaneGirish/bcryptJS.git"
   },
   "bugs": {
     "url": "https://github.com/shaneGirish/bcrypt-nodejs/issues"
